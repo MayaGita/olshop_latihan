@@ -14,6 +14,8 @@
 </head>
 <body>
    <?php $this->load->view('layout/top_layout')?>
+
+   <h1>PILIH BARANGMU</h1>
    
    <div class="row">
    	
